@@ -13,6 +13,7 @@ class Solution {
 public:
         unordered_map<long long, int> prefix;
     int pathSum(TreeNode* root, int targetSum) {
+        prefix.clear();
         prefix[0] = 1;
         return dfs(root, 0, targetSum, prefix);
     }
