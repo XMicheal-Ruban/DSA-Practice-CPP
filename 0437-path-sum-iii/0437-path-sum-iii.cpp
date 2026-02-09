@@ -12,8 +12,8 @@
 class Solution {
 public:
         unordered_map<long long, int> prefix;
-        prefix[0] = 1;
     int pathSum(TreeNode* root, int targetSum) {
+        prefix[0] = 1;
         return dfs(root, 0, targetSum, prefix);
     }
     int dfs(TreeNode* root, long long currsum, int target, unordered_map<long long, int> prefix){
