@@ -16,7 +16,7 @@ public:
         prefix[0] = 1;
         return dfs(root, 0, targetSum, prefix);
     }
-    int dfs(TreeNode* root, int currsum, int target, unordered_map<long long, int> prefix){
+    int dfs(TreeNode* root, long long currsum, int target, unordered_map<long long, int> prefix){
         if(!root) return 0;
         currsum+= root->val;
         int count = 0;
