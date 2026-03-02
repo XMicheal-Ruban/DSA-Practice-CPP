@@ -11,9 +11,8 @@ public:
         long result = 0;
         while(i < n && isdigit(s[i])){
             result = result*10 + (s[i] - '0');
-            if(result > INT_MAX){
+            if(result > INT_MAX)
                 return sign == -1 ? INT_MIN : INT_MAX;                
-            } 
             //if(sign == -1 && result > INT_MAX) return INT_MIN;
             i++;
         }
