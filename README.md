@@ -48,6 +48,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0002-add-two-numbers/) | Medium |
 | [0010-regular-expression-matching](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0010-regular-expression-matching/) | Hard |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Array
@@ -66,6 +67,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0002-add-two-numbers/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -111,4 +113,8 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
