@@ -59,6 +59,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [0011-container-with-most-water](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0011-container-with-most-water/) | Medium |
 | [0016-3sum-closest](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0016-3sum-closest/) | Medium |
 | [0200-number-of-islands](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0200-number-of-islands/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -172,4 +173,8 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
