@@ -191,4 +191,8 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0238-product-of-array-except-self/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1009-complement-of-base-10-integer](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1009-complement-of-base-10-integer/) | Easy |
 <!---LeetCode Topics End-->
