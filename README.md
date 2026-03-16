@@ -68,6 +68,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [0056-merge-intervals](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0057-insert-interval/) | Medium |
 | [0079-word-search](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0079-word-search/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0200-number-of-islands](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0200-number-of-islands/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -92,6 +93,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0048-rotate-image/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -215,6 +217,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0042-trapping-rain-water/) | Hard |
+| [0150-evaluate-reverse-polish-notation](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
