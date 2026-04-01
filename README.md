@@ -74,6 +74,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [0347-top-k-frequent-elements](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [2751-robot-collisions](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/2751-robot-collisions/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +143,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [2751-robot-collisions](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/2751-robot-collisions/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,6 +172,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [0016-3sum-closest](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0016-3sum-closest/) | Medium |
 | [0056-merge-intervals](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0056-merge-intervals/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [2751-robot-collisions](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/2751-robot-collisions/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -218,6 +221,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0042-trapping-rain-water/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [2751-robot-collisions](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/2751-robot-collisions/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
