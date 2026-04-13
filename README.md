@@ -76,6 +76,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [0347-top-k-frequent-elements](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [1848-minimum-distance-to-the-target-element](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2751-robot-collisions](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/2751-robot-collisions/) | Hard |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
