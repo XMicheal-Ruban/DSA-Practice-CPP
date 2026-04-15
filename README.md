@@ -154,6 +154,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0133-clone-graph](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0133-clone-graph/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Sliding Window
@@ -185,11 +186,13 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | ------- | ------- |
 | [0079-word-search](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0079-word-search/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0133-clone-graph](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0200-number-of-islands/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0133-clone-graph](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0200-number-of-islands/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -218,6 +221,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0133-clone-graph](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0133-clone-graph/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
