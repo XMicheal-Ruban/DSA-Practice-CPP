@@ -79,6 +79,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1848-minimum-distance-to-the-target-element](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2751-robot-collisions](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/2751-robot-collisions/) | Hard |
+| [3488-closest-equal-element-queries](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Greedy
@@ -126,6 +127,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3488-closest-equal-element-queries](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
@@ -158,6 +160,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [0003-longest-substring-without-repeating-characters](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0133-clone-graph](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0133-clone-graph/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [3488-closest-equal-element-queries](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
