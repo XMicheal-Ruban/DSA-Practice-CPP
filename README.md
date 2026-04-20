@@ -68,6 +68,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [0016-3sum-closest](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0016-3sum-closest/) | Medium |
 | [0042-trapping-rain-water](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0057-insert-interval/) | Medium |
@@ -95,6 +96,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0054-spiral-matrix/) | Medium |
 | [0079-word-search](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0200-number-of-islands/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
@@ -154,6 +156,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0054-spiral-matrix/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2751-robot-collisions](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/2751-robot-collisions/) | Hard |
 ## Hash Table
