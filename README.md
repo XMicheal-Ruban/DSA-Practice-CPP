@@ -73,6 +73,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [0055-jump-game](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0057-insert-interval/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0079-word-search/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0200-number-of-islands](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0200-number-of-islands/) | Medium |
@@ -99,6 +100,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0054-spiral-matrix/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0200-number-of-islands/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
@@ -132,6 +134,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/3488-closest-equal-element-queries/) | Medium |
