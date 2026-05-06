@@ -116,6 +116,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0191-number-of-1-bits/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
@@ -242,6 +243,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0191-number-of-1-bits/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 ## Graph Theory
