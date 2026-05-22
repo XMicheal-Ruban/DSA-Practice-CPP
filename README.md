@@ -67,6 +67,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [0001-two-sum](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0011-container-with-most-water/) | Medium |
 | [0016-3sum-closest](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0016-3sum-closest/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0054-spiral-matrix/) | Medium |
@@ -136,6 +137,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
