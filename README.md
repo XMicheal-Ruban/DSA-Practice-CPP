@@ -60,6 +60,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0002-add-two-numbers/) | Medium |
 | [0010-regular-expression-matching](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0010-regular-expression-matching/) | Hard |
+| [0206-reverse-linked-list](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0206-reverse-linked-list/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -191,6 +192,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0206-reverse-linked-list](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0206-reverse-linked-list/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
