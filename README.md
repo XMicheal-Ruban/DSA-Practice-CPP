@@ -84,6 +84,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [0347-top-k-frequent-elements](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0455-assign-cookies](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0455-assign-cookies/) | Easy |
+| [0498-diagonal-traverse](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0498-diagonal-traverse/) | Medium |
 | [0724-find-pivot-index](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0724-find-pivot-index/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -110,6 +111,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [0079-word-search](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0200-number-of-islands/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0498-diagonal-traverse](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0498-diagonal-traverse/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -171,6 +173,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0054-spiral-matrix/) | Medium |
+| [0498-diagonal-traverse](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0498-diagonal-traverse/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2751-robot-collisions](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/2751-robot-collisions/) | Hard |
 ## Hash Table
