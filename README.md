@@ -46,6 +46,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +97,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [3488-closest-equal-element-queries](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -180,6 +182,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [0498-diagonal-traverse](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0498-diagonal-traverse/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2751-robot-collisions](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/2751-robot-collisions/) | Hard |
+| [3838-weighted-word-mapping](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
