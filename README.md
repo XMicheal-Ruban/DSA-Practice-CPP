@@ -89,6 +89,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [0498-diagonal-traverse](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0498-diagonal-traverse/) | Medium |
 | [0561-array-partition](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0561-array-partition/) | Easy |
 | [0724-find-pivot-index](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0724-find-pivot-index/) | Easy |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -153,6 +154,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [0033-search-in-rotated-sorted-array](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
