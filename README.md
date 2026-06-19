@@ -92,6 +92,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2751-robot-collisions](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/2751-robot-collisions/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -265,6 +266,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0724-find-pivot-index/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
