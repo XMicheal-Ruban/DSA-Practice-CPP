@@ -90,6 +90,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [0561-array-partition](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0561-array-partition/) | Easy |
 | [0724-find-pivot-index](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0724-find-pivot-index/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1094-car-pooling](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1094-car-pooling/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -183,6 +184,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0054-spiral-matrix/) | Medium |
 | [0498-diagonal-traverse](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0498-diagonal-traverse/) | Medium |
+| [1094-car-pooling](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1094-car-pooling/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2751-robot-collisions](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/2751-robot-collisions/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -226,6 +228,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [0347-top-k-frequent-elements](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0561-array-partition/) | Easy |
+| [1094-car-pooling](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1094-car-pooling/) | Medium |
 | [2751-robot-collisions](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/2751-robot-collisions/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -249,6 +252,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1094-car-pooling](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1094-car-pooling/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -268,6 +272,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0724-find-pivot-index/) | Easy |
+| [1094-car-pooling](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1094-car-pooling/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
