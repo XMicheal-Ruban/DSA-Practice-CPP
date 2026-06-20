@@ -45,6 +45,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [1657-determine-if-two-strings-are-close](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -209,6 +210,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [0380-insert-delete-getrandom-o1](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1657-determine-if-two-strings-are-close](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -244,6 +246,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [0455-assign-cookies](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0561-array-partition/) | Easy |
 | [1094-car-pooling](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1094-car-pooling/) | Medium |
+| [1657-determine-if-two-strings-are-close](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1840-maximum-building-height](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1840-maximum-building-height/) | Hard |
 | [2751-robot-collisions](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/2751-robot-collisions/) | Hard |
 ## Depth-First Search
@@ -277,6 +280,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1657-determine-if-two-strings-are-close](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Quickselect
