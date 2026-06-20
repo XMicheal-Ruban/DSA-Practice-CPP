@@ -39,6 +39,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [0010-regular-expression-matching](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0022-generate-parentheses/) | Medium |
 | [0079-word-search](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0079-word-search/) | Medium |
+| [0125-valid-palindrome](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0125-valid-palindrome/) | Easy |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -230,6 +231,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [0016-3sum-closest](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0016-3sum-closest/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0042-trapping-rain-water](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0042-trapping-rain-water/) | Hard |
+| [0125-valid-palindrome](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0125-valid-palindrome/) | Easy |
 | [0455-assign-cookies](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0455-assign-cookies/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
