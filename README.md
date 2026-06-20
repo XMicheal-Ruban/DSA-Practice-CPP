@@ -102,6 +102,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [1840-maximum-building-height](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1840-maximum-building-height/) | Hard |
 | [1848-minimum-distance-to-the-target-element](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2751-robot-collisions](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/2751-robot-collisions/) | Hard |
@@ -169,6 +170,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Memoization
