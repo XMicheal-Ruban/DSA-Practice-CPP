@@ -95,6 +95,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1840-maximum-building-height](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1840-maximum-building-height/) | Hard |
 | [1848-minimum-distance-to-the-target-element](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2751-robot-collisions](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/2751-robot-collisions/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -129,6 +130,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [0150-evaluate-reverse-polish-notation](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [1840-maximum-building-height](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1840-maximum-building-height/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -229,6 +231,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [0455-assign-cookies](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0561-array-partition/) | Easy |
 | [1094-car-pooling](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1094-car-pooling/) | Medium |
+| [1840-maximum-building-height](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1840-maximum-building-height/) | Hard |
 | [2751-robot-collisions](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/2751-robot-collisions/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
