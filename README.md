@@ -56,6 +56,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [0022-generate-parentheses](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0042-trapping-rain-water/) | Hard |
 | [0055-jump-game](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0055-jump-game/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Recursion
@@ -80,6 +81,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [0057-insert-interval](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0057-insert-interval/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0079-word-search/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0200-number-of-islands](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0200-number-of-islands/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0238-product-of-array-except-self/) | Medium |
