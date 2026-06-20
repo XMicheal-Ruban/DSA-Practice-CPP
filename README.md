@@ -94,6 +94,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [0724-find-pivot-index](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0724-find-pivot-index/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1094-car-pooling](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1094-car-pooling/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -132,6 +133,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [0048-rotate-image](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0048-rotate-image/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1840-maximum-building-height](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1840-maximum-building-height/) | Hard |
 ## Divide and Conquer
@@ -203,6 +205,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [0347-top-k-frequent-elements](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -212,6 +215,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [0003-longest-substring-without-repeating-characters](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -282,6 +286,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [0724-find-pivot-index](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0724-find-pivot-index/) | Easy |
 | [1094-car-pooling](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1094-car-pooling/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
