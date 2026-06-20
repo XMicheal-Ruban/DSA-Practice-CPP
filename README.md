@@ -93,6 +93,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [0498-diagonal-traverse](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0498-diagonal-traverse/) | Medium |
 | [0561-array-partition](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0561-array-partition/) | Easy |
 | [0724-find-pivot-index](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0724-find-pivot-index/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1094-car-pooling](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1094-car-pooling/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -163,6 +164,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [0033-search-in-rotated-sorted-array](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
