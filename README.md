@@ -211,6 +211,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [0003-longest-substring-without-repeating-characters](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0012-integer-to-roman/) | Medium |
 | [0133-clone-graph](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0133-clone-graph/) | Medium |
+| [0146-lru-cache](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0146-lru-cache/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
@@ -231,6 +232,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0146-lru-cache](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0146-lru-cache/) | Medium |
 | [0206-reverse-linked-list](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0206-reverse-linked-list/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -338,9 +340,14 @@ I use C++ for its speed and efficient memory management. This repository showcas
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0146-lru-cache/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Randomized
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
