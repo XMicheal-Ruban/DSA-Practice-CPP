@@ -212,6 +212,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [0003-longest-substring-without-repeating-characters](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0012-integer-to-roman/) | Medium |
 | [0133-clone-graph](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0133-clone-graph/) | Medium |
+| [0142-linked-list-cycle-ii](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0146-lru-cache/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -235,6 +236,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0142-linked-list-cycle-ii](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0146-lru-cache/) | Medium |
 | [0206-reverse-linked-list](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0206-reverse-linked-list/) | Easy |
 ## Two Pointers
@@ -246,6 +248,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [0019-remove-nth-node-from-end-of-list](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0042-trapping-rain-water](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0125-valid-palindrome/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0455-assign-cookies/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
