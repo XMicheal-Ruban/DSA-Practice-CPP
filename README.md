@@ -41,6 +41,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [0022-generate-parentheses](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0022-generate-parentheses/) | Medium |
 | [0079-word-search](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0125-valid-palindrome/) | Easy |
+| [0187-repeated-dna-sequences](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -212,6 +213,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [0012-integer-to-roman](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0012-integer-to-roman/) | Medium |
 | [0133-clone-graph](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0133-clone-graph/) | Medium |
 | [0146-lru-cache](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0146-lru-cache/) | Medium |
+| [0187-repeated-dna-sequences](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
@@ -224,6 +226,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0187-repeated-dna-sequences](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -306,6 +309,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0191-number-of-1-bits](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0191-number-of-1-bits/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
@@ -350,4 +354,12 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0146-lru-cache/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0187-repeated-dna-sequences/) | Medium |
 <!---LeetCode Topics End-->
