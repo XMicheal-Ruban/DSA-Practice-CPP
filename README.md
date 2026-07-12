@@ -100,6 +100,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1094-car-pooling](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1094-car-pooling/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -219,6 +220,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [0380-insert-delete-getrandom-o1](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -259,6 +261,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [0455-assign-cookies](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0561-array-partition/) | Easy |
 | [1094-car-pooling](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1094-car-pooling/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1840-maximum-building-height](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1840-maximum-building-height/) | Hard |
 | [2751-robot-collisions](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/2751-robot-collisions/) | Hard |
