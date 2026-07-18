@@ -108,6 +108,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [1840-maximum-building-height](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1840-maximum-building-height/) | Hard |
 | [1848-minimum-distance-to-the-target-element](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2751-robot-collisions](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/2751-robot-collisions/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
@@ -145,6 +146,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [1248-count-number-of-nice-subarrays](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1840-maximum-building-height](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1840-maximum-building-height/) | Hard |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -376,5 +378,6 @@ I use C++ for its speed and efficient memory management. This repository showcas
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 <!---LeetCode Topics End-->
