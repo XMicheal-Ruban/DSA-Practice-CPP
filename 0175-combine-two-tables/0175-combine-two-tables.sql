@@ -4,3 +4,4 @@ SELECT
     FROM Person p
     LEFT JOIN Address a
     ON p.personID = a.personID;
+    # Write your MySQL query statement below
