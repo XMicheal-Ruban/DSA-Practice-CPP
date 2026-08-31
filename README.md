@@ -387,4 +387,8 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0207-course-schedule/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
