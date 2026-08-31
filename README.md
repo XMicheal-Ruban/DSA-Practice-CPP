@@ -75,6 +75,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | ------- | ------- |
 | [0001-two-sum](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0016-3sum-closest/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0042-trapping-rain-water/) | Hard |
@@ -251,6 +252,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0016-3sum-closest/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0042-trapping-rain-water](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0042-trapping-rain-water/) | Hard |
@@ -261,6 +263,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0016-3sum-closest/) | Medium |
 | [0056-merge-intervals](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0056-merge-intervals/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0347-top-k-frequent-elements/) | Medium |
