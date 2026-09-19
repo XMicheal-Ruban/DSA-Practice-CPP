@@ -403,4 +403,8 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0022-generate-parentheses/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0180-consecutive-numbers](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0180-consecutive-numbers/) | Medium |
 <!---LeetCode Topics End-->
