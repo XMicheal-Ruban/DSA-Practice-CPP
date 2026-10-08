@@ -419,4 +419,8 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | ------- | ------- |
 | [0180-consecutive-numbers](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0180-consecutive-numbers/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
