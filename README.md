@@ -80,6 +80,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [0011-container-with-most-water](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0016-3sum-closest/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0048-rotate-image/) | Medium |
@@ -266,6 +267,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [0015-3sum](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0016-3sum-closest/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0125-valid-palindrome/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0142-linked-list-cycle-ii/) | Medium |
