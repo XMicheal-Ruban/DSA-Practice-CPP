@@ -82,6 +82,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [0016-3sum-closest](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0041-first-missing-positive](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0054-spiral-matrix/) | Medium |
@@ -230,6 +231,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [0003-longest-substring-without-repeating-characters](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0012-integer-to-roman/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0041-first-missing-positive](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0041-first-missing-positive/) | Hard |
 | [0133-clone-graph](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0133-clone-graph/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0146-lru-cache/) | Medium |
