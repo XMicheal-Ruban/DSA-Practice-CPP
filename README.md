@@ -45,6 +45,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [0187-repeated-dna-sequences](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1208-get-equal-substrings-within-budget](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
@@ -355,6 +356,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | [0042-trapping-rain-water](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0042-trapping-rain-water/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [2751-robot-collisions](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/2751-robot-collisions/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -407,6 +409,7 @@ I use C++ for its speed and efficient memory management. This repository showcas
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0022-generate-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/XMicheal-Ruban/DSA-Practice-CPP/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
